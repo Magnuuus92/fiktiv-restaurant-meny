@@ -1,4 +1,4 @@
-#background-box {
-  height: 300;
-  width: 300;
+#menytekst::selection {
+  color: rgb(39, 196, 68);
+  background-color: rgb(6, 0, 0);
 }

@@ -2,3 +2,13 @@
   color: rgb(39, 196, 68);
   background-color: rgb(6, 0, 0);
 }
+#ul {
+  background-color: blue;
+}
+#container {
+  background-color: blue;
+}
+
+body {
+  background-image: url("mama300x224.png");
+}
